@@ -4,4 +4,4 @@ jupyter-console==6.0.0
 jupyter-core==4.6.1
 jupyterlab==1.2.2
 jupyterlab-server==1.0.6
-notebook==6.0.2
+notebook==6.1.5
